@@ -1,1 +1,1 @@
-Here I am coding using gitbash and learning version control.
+Here I am playing using gitbash and learning version control.
